@@ -1,0 +1,11 @@
+Built a small Gemini AI project with Streamlit! 🚀
+
+It includes:
+💬 A conversational AI chatbot
+🖼️ Image understanding with multimodal input
+🔐 API key management through environment variables
+🧰 A reusable Python project structure
+
+This helped me practise API integration, session state, prompt input, error handling, and building simple AI applications.
+
+#GenerativeAI #GeminiAI #Python #Streamlit #AIProjects #LearningByBuilding
